@@ -23,25 +23,16 @@ After clicking the GitHub Classroom link and accepting the assignment:
 2. **Open the project in VS Code**:
    Use VS Code menu: File → Open Folder → select your `activity01` folder
 
-## Activity Instructions
+## Your Task
 
-You will create a **Personal Calculator** that:
-1. Greets the user by name
-2. Takes two numbers from the user
-3. Performs various calculations
-4. Displays results in a nice format
-
-**Time Estimate: 20-30 minutes**
-
-### Your Task
-
-Complete the `main.py` file by replacing all the TODO comments with working code. The program should:
+Create a **Personal Calculator** by completing the `main.py` file. Replace all TODO comments with working code to:
 
 1. **Get user information**: Ask for their name and store it
-2. **Get calculator inputs**: Ask for two numbers
-3. **Perform calculations**: Do arithmetic operations on the numbers
-4. **Display results**: Show all calculations in a formatted way
-5. **Personalize output**: Use the user's name in the messages
+2. **Get calculator inputs**: Ask for two numbers  
+3. **Perform calculations**: Do all arithmetic operations (+, -, *, /, //, %, **)
+4. **Display results**: Show calculations in a formatted way with the user's name
+
+**Time Estimate: 20-30 minutes**
 
 ## Testing Your Program
 
@@ -75,24 +66,19 @@ Thanks for using the calculator, Alice!
 
 ## Submission
 
-### Git Workflow
-
 **Submit your work**:
-   ```bash
+```bash
+# Add your completed main.py file
+git add main.py
 
-   # Add your completed main.py file
-   git add main.py
-   
-   # Commit your changes
-   git commit -m "Complete activity 1"
-   
-   # Push to GitHub
-   git push origin main
-   ```
+# Commit your changes
+git commit -m "Complete activity 1"
 
-3. **Verify your submission**:
-   - Go to your repository on GitHub
-   - Make sure your completed `main.py` file is visible
+# Push to GitHub
+git push origin main
+```
+
+**Verify your submission**: Go to your repository on GitHub and make sure your completed `main.py` file is visible.
 
 ## Grading Rubric
 
