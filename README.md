@@ -1,5 +1,4 @@
 # Personal Calculator Activity
-## DUE: 9:30AM September 11, 2025
 
 ## Learning Objectives
 
@@ -50,7 +49,7 @@ Hello Amir! Let's do some math.
 Enter your first number: 10
 Enter your second number: 3
 
-Alice, here are your calculation results:
+Amir, here are your calculation results:
 ================================
 10.0 + 3.0 = 13.0
 10.0 - 3.0 = 7.0
