@@ -1,4 +1,5 @@
 # Personal Calculator Activity
+## DUE: 9:30AM September 11, 2025
 
 ## Learning Objectives
 
@@ -32,8 +33,6 @@ Create a **Personal Calculator** by completing the `main.py` file. Replace all T
 3. **Perform calculations**: Do all arithmetic operations (+, -, *, /, //, %, **)
 4. **Display results**: Show calculations in a formatted way with the user's name
 
-**Time Estimate: 20-30 minutes**
-
 ## Testing Your Program
 
 Run your program to make sure it works:
@@ -45,8 +44,8 @@ python main.py
 ### Example Output
 ```
 Welcome to the Personal Calculator!
-What's your name? Alice
-Hello Alice! Let's do some math.
+What's your name? Amir
+Hello Amir! Let's do some math.
 
 Enter your first number: 10
 Enter your second number: 3
@@ -61,7 +60,7 @@ Alice, here are your calculation results:
 10.0 % 3.0 = 1.0
 10.0 ** 3.0 = 1000.0
 ================================
-Thanks for using the calculator, Alice!
+Thanks for using the calculator, Amir!
 ```
 
 ## Submission
